@@ -2,7 +2,8 @@
 
 https://aqueous-reef-37142.herokuapp.com/
 
-      
+      ![Screenshot (16)](https://user-images.githubusercontent.com/83981829/136664094-4850acc7-5332-4327-b07d-19de21587342.png)
+
 # Description
 This application was made with the idea of keeping track of various aspects of your workouts in one convenient spot.
 
